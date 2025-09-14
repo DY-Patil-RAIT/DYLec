@@ -2,9 +2,9 @@
 
 
 ## Chemistry
-https://github.com/DY-Patil-RAIT/DYLec/blob/main/Chemistry/EC%20water%20numerical%20on%20EDTA.pdf
-https://github.com/DY-Patil-RAIT/DYLec/blob/main/Chemistry/Engineering%20Chemistry%20Notes_Water%20(2).pdf
-https://github.com/DY-Patil-RAIT/DYLec/blob/main/Chemistry/L2-WATER.pdf
+[https://github.com/DY-Patil-RAIT/DYLec/blob/main/Chemistry/EC%20water%20numerical%20on%20EDTA.pdf](https://github.com/DY-Patil-RAIT/DYLec/blob/f8d143c5e2c602bebe1d91d27ef08185b5c07a07/Chemistry/EC%20water%20numerical%20on%20EDTA.pdf)
+[https://github.com/DY-Patil-RAIT/DYLec/blob/main/Chemistry/Engineering%20Chemistry%20Notes_Water%20(2).pdf](https://github.com/DY-Patil-RAIT/DYLec/blob/f8d143c5e2c602bebe1d91d27ef08185b5c07a07/Chemistry/Engineering%20Chemistry%20Notes_Water%20(2).pdf)
+[https://github.com/DY-Patil-RAIT/DYLec/blob/main/Chemistry/L2-WATER.pdf](https://github.com/DY-Patil-RAIT/DYLec/blob/f8d143c5e2c602bebe1d91d27ef08185b5c07a07/Chemistry/L2-WATER.pdf)
 
 
 ## BEE
