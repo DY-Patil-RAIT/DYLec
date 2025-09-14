@@ -14,8 +14,7 @@
 
 
 ## EG
-### 3. [Engineering Graphics Manual 2023-24
-](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EG/Engineering%20Graphics%20Manual%202023-24.pdf)
+### 1. [Engineering Graphics Manual 2023-24](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EG/Engineering%20Graphics%20Manual%202023-24.pdf)
 
 ## EM-1
-### 3. [EM1-20250904](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EM1/EM1-20250904.pdf)
+### 1. [EM1-20250904](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EM1/EM1-20250904.pdf)
