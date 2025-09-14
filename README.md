@@ -8,14 +8,14 @@
 
 
 ## BEE
-https://github.com/DY-Patil-RAIT/DYLec/blob/main/BEE/A%20Textbook%20of%20Electrical%20Technology%20Volume%20I%20%E2%80%93%20Basic%20Electrical%20Engineering%20(%20PDFDrive%20).pdf
-https://github.com/DY-Patil-RAIT/DYLec/blob/main/BEE/Ravish%20R.%20Singh%20-%20Basic%20Electrical%20Engineering-McGraw%20Hill%20Education%20(India)%20Private%20Limited%20(2019).pdf
-https://github.com/DY-Patil-RAIT/DYLec/blob/main/BEE/Series%20and%20Parallel%20circits.pdf
+### 1. [A Textbook of Electrical Technology Volume I – Basic Electrical Engineering](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/BEE/A%20Textbook%20of%20Electrical%20Technology%20Volume%20I%20%E2%80%93%20Basic%20Electrical%20Engineering%20(%20PDFDrive%20).pdf)
+### 2. [Ravish R. Singh - Basic Electrical Engineering-McGraw Hill Education (India) Private Limited (2019)](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/BEE/Ravish%20R.%20Singh%20-%20Basic%20Electrical%20Engineering-McGraw%20Hill%20Education%20(India)%20Private%20Limited%20(2019).pdf)
+### 3. [Series and Parallel circits](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/BEE/Series%20and%20Parallel%20circits.pdf)
 
 
 ## EG
-https://github.com/DY-Patil-RAIT/DYLec/blob/main/EG/Engineering%20Graphics%20Manual%202023-24.pdf
-
+### 3. [Engineering Graphics Manual 2023-24
+](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EG/Engineering%20Graphics%20Manual%202023-24.pdf)
 
 ## EM-1
-https://github.com/DY-Patil-RAIT/DYLec/blob/main/EM1/EM1-20250904.pdf
+### 3. [EM1-20250904](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EM1/EM1-20250904.pdf)
