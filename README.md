@@ -27,7 +27,8 @@
 <details>
 <summary>✏️ Engineering Graphics (EG)</summary>
 
-- [Engineering Graphics Manual (2023–24)](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EG/Engineering%20Graphics%20Manual%202023-24.pdf)  
+- [Engineering Graphics Manual (2023–24)](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EG/Engineering%20Graphics%20Manual%202023-24.pdf)
+- [CAD](https://github.com/DY-Patil-RAIT/DYLec/tree/b857d784edb4a3fe56c907c603963513c2d39b1f/EG/CAD)
 
 </details>
 
