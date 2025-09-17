@@ -37,6 +37,7 @@
 <details>
 <summary>📐 Engineering Mathematics – I (EM-1)</summary>
 
-- [EM-1 Notes (2025-09-04)](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EM1/EM1-20250904.pdf)  
+- [EM-1 Notes (2025-09-04)](https://github.com/DY-Patil-RAIT/DYLec/blob/595441f0fda71e5501836d973fdec0421433f0bb/EM1/EM1-20250904.pdf)
+- [EM-2 Notes (2025-09-11)](https://github.com/DY-Patil-RAIT/DYLec/blob/b153a800b910010769227fded631e0c054e63cfd/EM1/EM1-20250911.pdf)
 
 </details>
